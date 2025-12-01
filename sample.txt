@@ -1,1 +1,2 @@
-Welcome !!
+Welcome !! 
+Successfully merged 2 branches
